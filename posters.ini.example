@@ -1,0 +1,11 @@
+[display]
+resX = 854
+resY = 480
+
+[timing]
+displayTime = 10
+transitionPixIncrement = 3
+refreshInterval = 3600
+
+[posters]
+source = <URL that contains a list of image URLs>
